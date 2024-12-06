@@ -13,10 +13,11 @@ public class HelloController {
         return "hello";
     }
 
+    public void gitTest(){
+
+    }
+
     static class myClass {
         String name;
-
-
-
     }
 }
